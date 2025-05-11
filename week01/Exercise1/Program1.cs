@@ -24,7 +24,7 @@ class Program
          //{
            // Console.WriteLine($" My school is {school}");
          //}
-         // Ask the user for thier namesudo su
+         // Ask the user for thier name
         {
             Console.Write("What is you first name? ");
             string first = Console.ReadLine();
