@@ -1,0 +1,42 @@
+[
+  {
+    "Date": "2025-05-18 10:39:31",
+    "Prompt": "If I had one thing I could do over today, what would it be?",
+    "Response": "There\u0027s someone I love but she\u0027s taking the love for granted, and now I dont\u0027 anymore."
+  },
+  {
+    "Date": "2025-05-18 10:40:18",
+    "Prompt": "If I had one thing I could do over today, what would it be?",
+    "Response": "I would just go out and have fun."
+  },
+  {
+    "Date": "2025-05-18 10:43:23",
+    "Prompt": "If I had one thing I could do over today, what would it be?",
+    "Response": "go out"
+  },
+  {
+    "Date": "2025-05-18 10:43:37",
+    "Prompt": "What was the strongest emotion I felt today?",
+    "Response": "heart break"
+  },
+  {
+    "Date": "2025-05-18 10:43:49",
+    "Prompt": "What was the best part of my day?",
+    "Response": "feeling good"
+  },
+  {
+    "Date": "2025-05-18 10:44:04",
+    "Prompt": "Who was the most interesting person I interacted with today?",
+    "Response": "my freind jane"
+  },
+  {
+    "Date": "2025-05-18 10:44:18",
+    "Prompt": "How did I see the hand of the Lord in my life today?",
+    "Response": "awesome"
+  },
+  {
+    "Date": "2025-05-18 10:44:26",
+    "Prompt": "What was the strongest emotion I felt today?",
+    "Response": ""
+  }
+]
