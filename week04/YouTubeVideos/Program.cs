@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 using System.Collections.Generic;
+=======
+using System;
+>>>>>>> d467a5d444a43607aef97a325da58d91c71176bb
 
 class Program
 {
     static void Main(string[] args)
     {
+<<<<<<< HEAD
         List<Video> videos = new List<Video>();
 
         Video video1 = new Video("Learn C# Basics", "CodeMaster2025", 300);
@@ -42,3 +47,8 @@ class Program
     }
 }
 
+=======
+        Console.WriteLine("Hello World! This is the YouTubeVideos Project.");
+    }
+}
+>>>>>>> d467a5d444a43607aef97a325da58d91c71176bb
