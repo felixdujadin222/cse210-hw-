@@ -2,12 +2,10 @@
 using System.Collections.Generic;
 using System;
 
-
 class Program
 {
     static void Main(string[] args)
     {
-
         List<Video> videos = new List<Video>();
 
         Video video1 = new Video("Learn C# Basics", "CodeMaster2025", 300);
@@ -45,6 +43,3 @@ class Program
         }
     }
 }
-     
-
-
